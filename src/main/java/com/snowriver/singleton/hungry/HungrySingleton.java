@@ -1,4 +1,4 @@
-package com.snowriver.singleton.singletonhungry;
+package com.snowriver.singleton.hungry;
 
 /**
  * 绝对线程安全，在线程还没出现以前就是实例化了，不可能存在访问安全问题
